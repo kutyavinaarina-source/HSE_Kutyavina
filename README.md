@@ -86,5 +86,3 @@ uv run jupyter lab
 См. [ДЕКЛАРАЦИЯ-ИИ.md](ДЕКЛАРАЦИЯ-ИИ.md).
 
 test
-
-jjj
